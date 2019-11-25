@@ -1,0 +1,10 @@
+{
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "facebook/webdriver": "^1.7",
+        "vlucas/phpdotenv": "^3.6",
+        "codeception/codeception": "^3.1"
+    },
+    "require-dev": {
+    }
+}
